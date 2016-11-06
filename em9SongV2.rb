@@ -12,7 +12,7 @@ end
   sample :guit_em9, attack: 1,beat_stretch:12
   sleep 3
   sample :guit_em9, attack:2, beat_stretch:18
-  sleep 2
+  sleep 3
 end
 
 2.times do
@@ -29,6 +29,7 @@ end
       sleep 1.753
     end
   end
+  sleep 1
 end
 
 2.times do
