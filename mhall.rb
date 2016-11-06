@@ -1,5 +1,6 @@
-with_bpm 96 do
-  with_fx :flanger do
+#a basic song which now needs to take away the repeated code
+with_bpm 120 do
+  with_fx :slicer do
     with_synth :pluck do
       play :E3
       sleep 0.5
