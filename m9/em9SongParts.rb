@@ -2,7 +2,7 @@ ptc = -10
 
 define :guitEm9NoFx do
   sample :guit_em9,pitch: ptc
-  sleep 3
+  sleep 2.75
 end
 
 3.times do
