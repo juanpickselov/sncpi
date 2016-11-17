@@ -20,5 +20,8 @@ with_fx :reverb do
     sleep 0.25
     play :e4
     sleep 0.25
+    play :f4
+    sleep 0.25
+    play :e4
   end
 end
