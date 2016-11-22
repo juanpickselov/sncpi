@@ -1,4 +1,8 @@
-#loop fun changing variables
+live_loop :wndy do
+  sample "/zAdo/wipWind006.flac", beat_stretch: 7
+  sleep 7
+end
+
 ptch = 1
 btStrch = 8
 
